@@ -1,0 +1,73 @@
+[
+    {
+      "title": "Harry Potter: Philosopher's Stone",
+      "author": "J.K Rowling",
+      "genre": "Fantasy",
+      "year": 1997,
+      "coverImage": "img1.jpeg"
+    },
+    {
+      "title": "Harry Potter: Chamber of secrets",
+      "author": "J.K Rowling",
+      "genre": "Fantasy",
+      "year": 1998,
+      "coverImage": "img2.jpeg"
+    },
+    {
+      "title": "Harry Potter: Prisoner of Azkaban",
+      "author": "J.K Rowling",
+      "genre": "Fantasy",
+      "year": 1999,
+      "coverImage": "img3.jpeg"
+    },
+    {
+      "title": "Harry Potter: Goblet of Fire",
+      "author": "J.K Rowling",
+      "genre": "Fantasy",
+      "year": 2000,
+      "coverImage": "img4.jpeg"
+    },
+    {
+      "title": "Harry Potter: Order of Phoenix",
+      "author": "J.K Rowling",
+      "genre": "Fantasy",
+      "year": 2003,
+      "coverImage": "img5.jpeg"
+    },
+    {
+      "title": "Harry Potter: Half blood Prince",
+      "author": "J.K Rowling",
+      "genre": "Fantasy",
+      "year": 2005,
+      "coverImage": "img6.jpeg"
+    },
+    {
+      "title": "Harry Potter: Deathly Hallows",
+      "author": "J.K Rowling",
+      "genre": "Fantasy",
+      "year": 2007,
+      "coverImage": "img7.jpeg"
+    },
+    {
+      "title": "The Hidden Hindu: Book 1",
+      "author": "Akshat Gupta",
+      "genre": "Fantasy",
+      "year": 2021,
+      "coverImage": "img8.jpeg"
+    },
+    {
+      "title": "The Hidden Hindu: Book 2",
+      "author": "Akshat Gupta",
+      "genre": "Fantasy",
+      "year": 2022,
+      "coverImage": "img9.jpeg"
+    },
+    {
+      "title": "The Hidden Hindu: Book 3",
+      "author": "Akshat Gupta",
+      "genre": "Fantasy",
+      "year": 2023,
+      "coverImage": "img10.jpeg"
+    }
+  ]
+  
